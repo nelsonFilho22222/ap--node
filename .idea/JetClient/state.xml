@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
+              <option name="method" value="GET" />
+              <option name="name" value="GET" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;nome&quot; : &quot;Rodolfo&quot;,&#10;  &quot;idade&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
+              <option name="method" value="POST" />
+              <option name="name" value="POST" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="id" value="551dc332-2dae-4e0a-9ee8-108aa8e9654d" />
+    <option name="version" value="4" />
+  </component>
+</project>
