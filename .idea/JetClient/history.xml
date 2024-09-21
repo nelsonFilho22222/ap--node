@@ -4,1221 +4,6 @@
     <option name="requestHistoryStates">
       <list>
         <requestHistoryState>
-          <option name="dateTime" value="1726941296774" />
-          <option name="id" value="5b8dffb2-b821-4f42-a054-804b2f269198" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="{&#10;  &quot;nome&quot; : &quot;Rodolfo&quot;,&#10;  &quot;idade&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
-              <option name="method" value="POST" />
-              <option name="name" value="Draft (1)" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CjxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KPHRpdGxlPkVycm9yPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KPHByZT5DYW5ub3QgUE9TVCAvdXN1YXJpb3M8L3ByZT4KPC9ib2R5Pgo8L2h0bWw+Cg==" />
-              <option name="bodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;Cannot POST /usuarios&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="code" value="404" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Security-Policy" />
-                    <option name="value" value="default-src 'none'" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="X-Content-Type-Options" />
-                    <option name="value" value="nosniff" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="148" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 17:54:56 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="5b8dffb2-b821-4f42-a054-804b2f269198" />
-              <option name="message" value="Not Found" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;Cannot POST /usuarios&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="size" value="148" />
-              <option name="time" value="1" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1726941296990" />
-          <option name="id" value="66267145-01b6-41a1-b465-f907624a11b5" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="{&#10;  &quot;nome&quot; : &quot;Rodolfo&quot;,&#10;  &quot;idade&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
-              <option name="method" value="POST" />
-              <option name="name" value="Draft (1)" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CjxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KPHRpdGxlPkVycm9yPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KPHByZT5DYW5ub3QgUE9TVCAvdXN1YXJpb3M8L3ByZT4KPC9ib2R5Pgo8L2h0bWw+Cg==" />
-              <option name="bodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;Cannot POST /usuarios&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="code" value="404" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Security-Policy" />
-                    <option name="value" value="default-src 'none'" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="X-Content-Type-Options" />
-                    <option name="value" value="nosniff" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="148" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 17:54:56 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="66267145-01b6-41a1-b465-f907624a11b5" />
-              <option name="message" value="Not Found" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;Cannot POST /usuarios&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="size" value="148" />
-              <option name="time" value="1" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1726941333991" />
-          <option name="id" value="83723096-33f1-40ca-95ff-066958797908" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="{&#10;  &quot;nome&quot; : &quot;Rodolfo&quot;,&#10;  &quot;idade&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
-              <option name="method" value="POST" />
-              <option name="name" value="Draft (1)" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CjxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KPHRpdGxlPkVycm9yPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KPHByZT5DYW5ub3QgUE9TVCAvdXN1YXJpb3M8L3ByZT4KPC9ib2R5Pgo8L2h0bWw+Cg==" />
-              <option name="bodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;Cannot POST /usuarios&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="code" value="404" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Security-Policy" />
-                    <option name="value" value="default-src 'none'" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="X-Content-Type-Options" />
-                    <option name="value" value="nosniff" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="148" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 17:55:33 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="83723096-33f1-40ca-95ff-066958797908" />
-              <option name="message" value="Not Found" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;Cannot POST /usuarios&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="size" value="148" />
-              <option name="time" value="2" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1726941334369" />
-          <option name="id" value="7ea1f04b-cb47-48b5-9400-cdc53b2944e0" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="{&#10;  &quot;nome&quot; : &quot;Rodolfo&quot;,&#10;  &quot;idade&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
-              <option name="method" value="POST" />
-              <option name="name" value="Draft (1)" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CjxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KPHRpdGxlPkVycm9yPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KPHByZT5DYW5ub3QgUE9TVCAvdXN1YXJpb3M8L3ByZT4KPC9ib2R5Pgo8L2h0bWw+Cg==" />
-              <option name="bodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;Cannot POST /usuarios&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="code" value="404" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Security-Policy" />
-                    <option name="value" value="default-src 'none'" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="X-Content-Type-Options" />
-                    <option name="value" value="nosniff" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="148" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 17:55:34 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="7ea1f04b-cb47-48b5-9400-cdc53b2944e0" />
-              <option name="message" value="Not Found" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;Cannot POST /usuarios&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="size" value="148" />
-              <option name="time" value="1" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1726941397395" />
-          <option name="id" value="e6789773-df28-4684-8028-e3e31db33a77" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="{&#10;  &quot;nome&quot; : &quot;Rodolfo&quot;,&#10;  &quot;idade&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
-              <option name="method" value="POST" />
-              <option name="name" value="Draft (1)" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CjxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KPHRpdGxlPkVycm9yPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KPHByZT5DYW5ub3QgUE9TVCAvdXN1YXJpb3M8L3ByZT4KPC9ib2R5Pgo8L2h0bWw+Cg==" />
-              <option name="bodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;Cannot POST /usuarios&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="code" value="404" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Security-Policy" />
-                    <option name="value" value="default-src 'none'" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="X-Content-Type-Options" />
-                    <option name="value" value="nosniff" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="148" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 17:56:37 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="e6789773-df28-4684-8028-e3e31db33a77" />
-              <option name="message" value="Not Found" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;Cannot POST /usuarios&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="size" value="148" />
-              <option name="time" value="1" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1726941398120" />
-          <option name="id" value="e1224d57-26d2-4791-a992-5ca069c11c3d" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="{&#10;  &quot;nome&quot; : &quot;Rodolfo&quot;,&#10;  &quot;idade&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
-              <option name="method" value="POST" />
-              <option name="name" value="Draft (1)" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CjxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KPHRpdGxlPkVycm9yPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KPHByZT5DYW5ub3QgUE9TVCAvdXN1YXJpb3M8L3ByZT4KPC9ib2R5Pgo8L2h0bWw+Cg==" />
-              <option name="bodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;Cannot POST /usuarios&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="code" value="404" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Security-Policy" />
-                    <option name="value" value="default-src 'none'" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="X-Content-Type-Options" />
-                    <option name="value" value="nosniff" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="148" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 17:56:38 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="e1224d57-26d2-4791-a992-5ca069c11c3d" />
-              <option name="message" value="Not Found" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;Cannot POST /usuarios&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="size" value="148" />
-              <option name="time" value="2" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1726941398413" />
-          <option name="id" value="6c625acf-d8d2-4b2d-973f-598d8bd0a024" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="{&#10;  &quot;nome&quot; : &quot;Rodolfo&quot;,&#10;  &quot;idade&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
-              <option name="method" value="POST" />
-              <option name="name" value="Draft (1)" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CjxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KPHRpdGxlPkVycm9yPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KPHByZT5DYW5ub3QgUE9TVCAvdXN1YXJpb3M8L3ByZT4KPC9ib2R5Pgo8L2h0bWw+Cg==" />
-              <option name="bodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;Cannot POST /usuarios&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="code" value="404" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Security-Policy" />
-                    <option name="value" value="default-src 'none'" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="X-Content-Type-Options" />
-                    <option name="value" value="nosniff" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="148" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 17:56:38 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="6c625acf-d8d2-4b2d-973f-598d8bd0a024" />
-              <option name="message" value="Not Found" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;Cannot POST /usuarios&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="size" value="148" />
-              <option name="time" value="1" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1726941398704" />
-          <option name="id" value="93810237-6c5d-419c-9c45-c8990ee679af" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="{&#10;  &quot;nome&quot; : &quot;Rodolfo&quot;,&#10;  &quot;idade&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
-              <option name="method" value="POST" />
-              <option name="name" value="Draft (1)" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CjxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KPHRpdGxlPkVycm9yPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KPHByZT5DYW5ub3QgUE9TVCAvdXN1YXJpb3M8L3ByZT4KPC9ib2R5Pgo8L2h0bWw+Cg==" />
-              <option name="bodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;Cannot POST /usuarios&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="code" value="404" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Security-Policy" />
-                    <option name="value" value="default-src 'none'" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="X-Content-Type-Options" />
-                    <option name="value" value="nosniff" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="148" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 17:56:38 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="93810237-6c5d-419c-9c45-c8990ee679af" />
-              <option name="message" value="Not Found" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;Cannot POST /usuarios&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="size" value="148" />
-              <option name="time" value="1" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1726941697376" />
-          <option name="id" value="0408bb5a-e0e3-457a-91f2-33261ac83657" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
-              <option name="method" value="GET" />
-              <option name="name" value="GET" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="T2ssIGRldSBib20=" />
-              <option name="bodyString" value="Ok, deu bom" />
-              <option name="code" value="200" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="11" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="ETag" />
-                    <option name="value" value="W/&quot;b-pCeHXhfnYimNgknI1ekNvEWPJ7I&quot;" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 18:01:37 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="0408bb5a-e0e3-457a-91f2-33261ac83657" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="Ok, deu bom" />
-              <option name="size" value="11" />
-              <option name="time" value="6" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1726941735076" />
-          <option name="id" value="75ef6216-4174-406f-a0d6-498d40018768" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
-              <option name="method" value="GET" />
-              <option name="name" value="GET" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="T2ssIGRldSBib20=" />
-              <option name="bodyString" value="Ok, deu bom" />
-              <option name="code" value="200" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="11" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="ETag" />
-                    <option name="value" value="W/&quot;b-pCeHXhfnYimNgknI1ekNvEWPJ7I&quot;" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 18:02:15 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="75ef6216-4174-406f-a0d6-498d40018768" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="Ok, deu bom" />
-              <option name="size" value="11" />
-              <option name="time" value="3" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1726941736636" />
-          <option name="id" value="74d0d425-a56a-45df-b553-366dafbcce97" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
-              <option name="method" value="GET" />
-              <option name="name" value="GET" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="T2ssIGRldSBib20=" />
-              <option name="bodyString" value="Ok, deu bom" />
-              <option name="code" value="200" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="11" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="ETag" />
-                    <option name="value" value="W/&quot;b-pCeHXhfnYimNgknI1ekNvEWPJ7I&quot;" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 18:02:16 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="74d0d425-a56a-45df-b553-366dafbcce97" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="Ok, deu bom" />
-              <option name="size" value="11" />
-              <option name="time" value="2" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1726941736834" />
-          <option name="id" value="05764d7f-d681-4284-9838-638aaf68445c" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
-              <option name="method" value="GET" />
-              <option name="name" value="GET" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="T2ssIGRldSBib20=" />
-              <option name="bodyString" value="Ok, deu bom" />
-              <option name="code" value="200" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="11" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="ETag" />
-                    <option name="value" value="W/&quot;b-pCeHXhfnYimNgknI1ekNvEWPJ7I&quot;" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 18:02:16 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="05764d7f-d681-4284-9838-638aaf68445c" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="Ok, deu bom" />
-              <option name="size" value="11" />
-              <option name="time" value="2" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1726941736967" />
-          <option name="id" value="e640b7b9-111a-405f-885b-9c8b7949194c" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
-              <option name="method" value="GET" />
-              <option name="name" value="GET" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="T2ssIGRldSBib20=" />
-              <option name="bodyString" value="Ok, deu bom" />
-              <option name="code" value="200" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="11" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="ETag" />
-                    <option name="value" value="W/&quot;b-pCeHXhfnYimNgknI1ekNvEWPJ7I&quot;" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 18:02:16 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="e640b7b9-111a-405f-885b-9c8b7949194c" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="Ok, deu bom" />
-              <option name="size" value="11" />
-              <option name="time" value="3" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1726941737132" />
-          <option name="id" value="da8b070d-dc2a-418a-8899-689748227a9e" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
-              <option name="method" value="GET" />
-              <option name="name" value="GET" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="T2ssIGRldSBib20=" />
-              <option name="bodyString" value="Ok, deu bom" />
-              <option name="code" value="200" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="11" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="ETag" />
-                    <option name="value" value="W/&quot;b-pCeHXhfnYimNgknI1ekNvEWPJ7I&quot;" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 18:02:17 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="da8b070d-dc2a-418a-8899-689748227a9e" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="Ok, deu bom" />
-              <option name="size" value="11" />
-              <option name="time" value="2" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1726941737310" />
-          <option name="id" value="e43c730f-b2a1-4d71-94fe-f542b5e544ad" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
-              <option name="method" value="GET" />
-              <option name="name" value="GET" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="T2ssIGRldSBib20=" />
-              <option name="bodyString" value="Ok, deu bom" />
-              <option name="code" value="200" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="11" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="ETag" />
-                    <option name="value" value="W/&quot;b-pCeHXhfnYimNgknI1ekNvEWPJ7I&quot;" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 18:02:17 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="e43c730f-b2a1-4d71-94fe-f542b5e544ad" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="Ok, deu bom" />
-              <option name="size" value="11" />
-              <option name="time" value="3" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1726941737474" />
-          <option name="id" value="5715ece8-f5b8-4a91-8aad-cb9c87958cb4" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
-              <option name="method" value="GET" />
-              <option name="name" value="GET" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="T2ssIGRldSBib20=" />
-              <option name="bodyString" value="Ok, deu bom" />
-              <option name="code" value="200" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="11" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="ETag" />
-                    <option name="value" value="W/&quot;b-pCeHXhfnYimNgknI1ekNvEWPJ7I&quot;" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 18:02:17 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="5715ece8-f5b8-4a91-8aad-cb9c87958cb4" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="Ok, deu bom" />
-              <option name="size" value="11" />
-              <option name="time" value="3" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1726941752003" />
-          <option name="id" value="d41f6a78-babc-40f7-84f5-538211f4b6a0" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="{&#10;  &quot;nome&quot; : &quot;Rodolfo&quot;,&#10;  &quot;idade&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
-              <option name="method" value="POST" />
-              <option name="name" value="POST" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="RGV1IHR1ZG8gY2VydG8=" />
-              <option name="bodyString" value="Deu tudo certo" />
-              <option name="code" value="200" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="14" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="ETag" />
-                    <option name="value" value="W/&quot;e-4tJIwaI1FJbAbIQwSsW3ol3B+yI&quot;" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 18:02:31 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="d41f6a78-babc-40f7-84f5-538211f4b6a0" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="Deu tudo certo" />
-              <option name="size" value="14" />
-              <option name="time" value="25" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1726941753994" />
-          <option name="id" value="03deb7c5-0396-4bf6-8544-4187e6fe4507" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
-              <option name="method" value="GET" />
-              <option name="name" value="GET" />
-              <option name="url" value="http://localhost:3000/usuarios" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CjxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KPHRpdGxlPkVycm9yPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KPHByZT5SZWZlcmVuY2VFcnJvcjogdXNlciBpcyBub3QgZGVmaW5lZDxicj4gJm5ic3A7ICZuYnNwO2F0IGZpbGU6Ly8vaG9tZS9yb3RobWFucy9DcnVkTm9kZUpTL2FwaS9zZXJ2ZXIuanM6MTc6MTQ8YnI+ICZuYnNwOyAmbmJzcDthdCBMYXllci5oYW5kbGUgW2FzIGhhbmRsZV9yZXF1ZXN0XSAoL2hvbWUvcm90aG1hbnMvQ3J1ZE5vZGVKUy9hcGkvbm9kZV9tb2R1bGVzL2V4cHJlc3MvbGliL3JvdXRlci9sYXllci5qczo5NTo1KTxicj4gJm5ic3A7ICZuYnNwO2F0IG5leHQgKC9ob21lL3JvdGhtYW5zL0NydWROb2RlSlMvYXBpL25vZGVfbW9kdWxlcy9leHByZXNzL2xpYi9yb3V0ZXIvcm91dGUuanM6MTQ5OjEzKTxicj4gJm5ic3A7ICZuYnNwO2F0IFJvdXRlLmRpc3BhdGNoICgvaG9tZS9yb3RobWFucy9DcnVkTm9kZUpTL2FwaS9ub2RlX21vZHVsZXMvZXhwcmVzcy9saWIvcm91dGVyL3JvdXRlLmpzOjExOTozKTxicj4gJm5ic3A7ICZuYnNwO2F0IExheWVyLmhhbmRsZSBbYXMgaGFuZGxlX3JlcXVlc3RdICgvaG9tZS9yb3RobWFucy9DcnVkTm9kZUpTL2FwaS9ub2RlX21vZHVsZXMvZXhwcmVzcy9saWIvcm91dGVyL2xheWVyLmpzOjk1OjUpPGJyPiAmbmJzcDsgJm5ic3A7YXQgL2hvbWUvcm90aG1hbnMvQ3J1ZE5vZGVKUy9hcGkvbm9kZV9tb2R1bGVzL2V4cHJlc3MvbGliL3JvdXRlci9pbmRleC5qczoyODQ6MTU8YnI+ICZuYnNwOyAmbmJzcDthdCBGdW5jdGlvbi5wcm9jZXNzX3BhcmFtcyAoL2hvbWUvcm90aG1hbnMvQ3J1ZE5vZGVKUy9hcGkvbm9kZV9tb2R1bGVzL2V4cHJlc3MvbGliL3JvdXRlci9pbmRleC5qczozNDY6MTIpPGJyPiAmbmJzcDsgJm5ic3A7YXQgbmV4dCAoL2hvbWUvcm90aG1hbnMvQ3J1ZE5vZGVKUy9hcGkvbm9kZV9tb2R1bGVzL2V4cHJlc3MvbGliL3JvdXRlci9pbmRleC5qczoyODA6MTApPGJyPiAmbmJzcDsgJm5ic3A7YXQganNvblBhcnNlciAoL2hvbWUvcm90aG1hbnMvQ3J1ZE5vZGVKUy9hcGkvbm9kZV9tb2R1bGVzL2JvZHktcGFyc2VyL2xpYi90eXBlcy9qc29uLmpzOjExMzo3KTxicj4gJm5ic3A7ICZuYnNwO2F0IExheWVyLmhhbmRsZSBbYXMgaGFuZGxlX3JlcXVlc3RdICgvaG9tZS9yb3RobWFucy9DcnVkTm9kZUpTL2FwaS9ub2RlX21vZHVsZXMvZXhwcmVzcy9saWIvcm91dGVyL2xheWVyLmpzOjk1OjUpPC9wcmU+CjwvYm9keT4KPC9odG1sPgo=" />
-              <option name="bodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;ReferenceError: user is not defined&lt;br&gt; &amp;nbsp; &amp;nbsp;at file:///home/rothmans/CrudNodeJS/api/server.js:17:14&lt;br&gt; &amp;nbsp; &amp;nbsp;at Layer.handle [as handle_request] (/home/rothmans/CrudNodeJS/api/node_modules/express/lib/router/layer.js:95:5)&lt;br&gt; &amp;nbsp; &amp;nbsp;at next (/home/rothmans/CrudNodeJS/api/node_modules/express/lib/router/route.js:149:13)&lt;br&gt; &amp;nbsp; &amp;nbsp;at Route.dispatch (/home/rothmans/CrudNodeJS/api/node_modules/express/lib/router/route.js:119:3)&lt;br&gt; &amp;nbsp; &amp;nbsp;at Layer.handle [as handle_request] (/home/rothmans/CrudNodeJS/api/node_modules/express/lib/router/layer.js:95:5)&lt;br&gt; &amp;nbsp; &amp;nbsp;at /home/rothmans/CrudNodeJS/api/node_modules/express/lib/router/index.js:284:15&lt;br&gt; &amp;nbsp; &amp;nbsp;at Function.process_params (/home/rothmans/CrudNodeJS/api/node_modules/express/lib/router/index.js:346:12)&lt;br&gt; &amp;nbsp; &amp;nbsp;at next (/home/rothmans/CrudNodeJS/api/node_modules/express/lib/router/index.js:280:10)&lt;br&gt; &amp;nbsp; &amp;nbsp;at jsonParser (/home/rothmans/CrudNodeJS/api/node_modules/body-parser/lib/types/json.js:113:7)&lt;br&gt; &amp;nbsp; &amp;nbsp;at Layer.handle [as handle_request] (/home/rothmans/CrudNodeJS/api/node_modules/express/lib/router/layer.js:95:5)&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="code" value="500" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="X-Powered-By" />
-                    <option name="value" value="Express" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Security-Policy" />
-                    <option name="value" value="default-src 'none'" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="X-Content-Type-Options" />
-                    <option name="value" value="nosniff" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="1286" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Sat, 21 Sep 2024 18:02:33 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="keep-alive" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Keep-Alive" />
-                    <option name="value" value="timeout=5" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="03deb7c5-0396-4bf6-8544-4187e6fe4507" />
-              <option name="message" value="Internal Server Error" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&lt;title&gt;Error&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;pre&gt;ReferenceError: user is not defined&lt;br&gt; &amp;nbsp; &amp;nbsp;at file:///home/rothmans/CrudNodeJS/api/server.js:17:14&lt;br&gt; &amp;nbsp; &amp;nbsp;at Layer.handle [as handle_request] (/home/rothmans/CrudNodeJS/api/node_modules/express/lib/router/layer.js:95:5)&lt;br&gt; &amp;nbsp; &amp;nbsp;at next (/home/rothmans/CrudNodeJS/api/node_modules/express/lib/router/route.js:149:13)&lt;br&gt; &amp;nbsp; &amp;nbsp;at Route.dispatch (/home/rothmans/CrudNodeJS/api/node_modules/express/lib/router/route.js:119:3)&lt;br&gt; &amp;nbsp; &amp;nbsp;at Layer.handle [as handle_request] (/home/rothmans/CrudNodeJS/api/node_modules/express/lib/router/layer.js:95:5)&lt;br&gt; &amp;nbsp; &amp;nbsp;at /home/rothmans/CrudNodeJS/api/node_modules/express/lib/router/index.js:284:15&lt;br&gt; &amp;nbsp; &amp;nbsp;at Function.process_params (/home/rothmans/CrudNodeJS/api/node_modules/express/lib/router/index.js:346:12)&lt;br&gt; &amp;nbsp; &amp;nbsp;at next (/home/rothmans/CrudNodeJS/api/node_modules/express/lib/router/index.js:280:10)&lt;br&gt; &amp;nbsp; &amp;nbsp;at jsonParser (/home/rothmans/CrudNodeJS/api/node_modules/body-parser/lib/types/json.js:113:7)&lt;br&gt; &amp;nbsp; &amp;nbsp;at Layer.handle [as handle_request] (/home/rothmans/CrudNodeJS/api/node_modules/express/lib/router/layer.js:95:5)&lt;/pre&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
-              <option name="size" value="1286" />
-              <option name="time" value="10" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
           <option name="dateTime" value="1726941777001" />
           <option name="id" value="2fa39018-4714-4330-9114-c0e023478667" />
           <option name="request">
@@ -1344,6 +129,1817 @@
               <option name="rawBodyString" value="[{&quot;nome&quot;:&quot;Rodolfo&quot;,&quot;idade&quot;:31,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;}]" />
               <option name="size" value="62" />
               <option name="time" value="2" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726944218442" />
+          <option name="id" value="ec1bfe7a-e9c8-4770-a21f-aed47c35e079" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;Rodolfo&quot;,&#10;  &quot;age&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
+              <option name="method" value="POST" />
+              <option name="name" value="POST" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJuYW1lIjoiUm9kb2xmbyIsImFnZSI6MzEsImVtYWlsIjoicm9kb2xmb0Byb3RobWFucy5jb20ifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;name&quot;: &quot;Rodolfo&quot;,&#10;  &quot;age&quot;: 31,&#10;  &quot;email&quot;: &quot;rodolfo@rothmans.com&quot;&#10;}" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="58" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;3a-AlRgcs3/DyAz9FvmK7ZXp6NDzwk&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 18:43:38 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ec1bfe7a-e9c8-4770-a21f-aed47c35e079" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:31,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;}" />
+              <option name="size" value="58" />
+              <option name="time" value="44" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726944241421" />
+          <option name="id" value="5043abbc-e7c9-4c3d-9318-a8759f4d2a0d" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
+              <option name="method" value="GET" />
+              <option name="name" value="GET" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="e30=" />
+              <option name="bodyString" value="{}" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="2" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;2-vyGp6PvFo4RvsFtPoIWeCReyIC8&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 18:44:01 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="5043abbc-e7c9-4c3d-9318-a8759f4d2a0d" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{}" />
+              <option name="size" value="2" />
+              <option name="time" value="3" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726944244864" />
+          <option name="id" value="b5623bd1-eed6-444d-9652-0c83f8b511e0" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;Rodolfo&quot;,&#10;  &quot;age&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
+              <option name="method" value="POST" />
+              <option name="name" value="POST" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJuYW1lIjoiUm9kb2xmbyIsImFnZSI6MzEsImVtYWlsIjoicm9kb2xmb0Byb3RobWFucy5jb20ifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;name&quot;: &quot;Rodolfo&quot;,&#10;  &quot;age&quot;: 31,&#10;  &quot;email&quot;: &quot;rodolfo@rothmans.com&quot;&#10;}" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="58" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;3a-AlRgcs3/DyAz9FvmK7ZXp6NDzwk&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 18:44:04 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="b5623bd1-eed6-444d-9652-0c83f8b511e0" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:31,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;}" />
+              <option name="size" value="58" />
+              <option name="time" value="3" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726944245645" />
+          <option name="id" value="0cd6d5e2-d084-431f-84c7-08e4a6c4de13" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;Rodolfo&quot;,&#10;  &quot;age&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
+              <option name="method" value="POST" />
+              <option name="name" value="POST" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJuYW1lIjoiUm9kb2xmbyIsImFnZSI6MzEsImVtYWlsIjoicm9kb2xmb0Byb3RobWFucy5jb20ifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;name&quot;: &quot;Rodolfo&quot;,&#10;  &quot;age&quot;: 31,&#10;  &quot;email&quot;: &quot;rodolfo@rothmans.com&quot;&#10;}" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="58" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;3a-AlRgcs3/DyAz9FvmK7ZXp6NDzwk&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 18:44:05 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="0cd6d5e2-d084-431f-84c7-08e4a6c4de13" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:31,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;}" />
+              <option name="size" value="58" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726944245920" />
+          <option name="id" value="73e2f38b-3dfa-4670-af97-dbc041f1b0c7" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;Rodolfo&quot;,&#10;  &quot;age&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
+              <option name="method" value="POST" />
+              <option name="name" value="POST" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJuYW1lIjoiUm9kb2xmbyIsImFnZSI6MzEsImVtYWlsIjoicm9kb2xmb0Byb3RobWFucy5jb20ifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;name&quot;: &quot;Rodolfo&quot;,&#10;  &quot;age&quot;: 31,&#10;  &quot;email&quot;: &quot;rodolfo@rothmans.com&quot;&#10;}" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="58" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;3a-AlRgcs3/DyAz9FvmK7ZXp6NDzwk&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 18:44:05 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="73e2f38b-3dfa-4670-af97-dbc041f1b0c7" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:31,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;}" />
+              <option name="size" value="58" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726944246128" />
+          <option name="id" value="6f5594b5-707e-49bd-96d8-3fc4811c4ce6" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;Rodolfo&quot;,&#10;  &quot;age&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
+              <option name="method" value="POST" />
+              <option name="name" value="POST" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJuYW1lIjoiUm9kb2xmbyIsImFnZSI6MzEsImVtYWlsIjoicm9kb2xmb0Byb3RobWFucy5jb20ifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;name&quot;: &quot;Rodolfo&quot;,&#10;  &quot;age&quot;: 31,&#10;  &quot;email&quot;: &quot;rodolfo@rothmans.com&quot;&#10;}" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="58" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;3a-AlRgcs3/DyAz9FvmK7ZXp6NDzwk&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 18:44:06 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="6f5594b5-707e-49bd-96d8-3fc4811c4ce6" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:31,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;}" />
+              <option name="size" value="58" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726944246323" />
+          <option name="id" value="d93c5d8f-eb40-4ef9-bb94-5e7a34983a39" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;Rodolfo&quot;,&#10;  &quot;age&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
+              <option name="method" value="POST" />
+              <option name="name" value="POST" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJuYW1lIjoiUm9kb2xmbyIsImFnZSI6MzEsImVtYWlsIjoicm9kb2xmb0Byb3RobWFucy5jb20ifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;name&quot;: &quot;Rodolfo&quot;,&#10;  &quot;age&quot;: 31,&#10;  &quot;email&quot;: &quot;rodolfo@rothmans.com&quot;&#10;}" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="58" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;3a-AlRgcs3/DyAz9FvmK7ZXp6NDzwk&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 18:44:06 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="d93c5d8f-eb40-4ef9-bb94-5e7a34983a39" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:31,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;}" />
+              <option name="size" value="58" />
+              <option name="time" value="6" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726944246516" />
+          <option name="id" value="1f2c09cb-7623-4d29-8836-dd2ade3142b0" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;Rodolfo&quot;,&#10;  &quot;age&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
+              <option name="method" value="POST" />
+              <option name="name" value="POST" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJuYW1lIjoiUm9kb2xmbyIsImFnZSI6MzEsImVtYWlsIjoicm9kb2xmb0Byb3RobWFucy5jb20ifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;name&quot;: &quot;Rodolfo&quot;,&#10;  &quot;age&quot;: 31,&#10;  &quot;email&quot;: &quot;rodolfo@rothmans.com&quot;&#10;}" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="58" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;3a-AlRgcs3/DyAz9FvmK7ZXp6NDzwk&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 18:44:06 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1f2c09cb-7623-4d29-8836-dd2ade3142b0" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:31,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;}" />
+              <option name="size" value="58" />
+              <option name="time" value="3" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726944398455" />
+          <option name="id" value="0aec6164-687d-4289-be08-ffda94a16ea7" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;Rodolfo&quot;,&#10;  &quot;age&quot; : &quot;31&quot;,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
+              <option name="method" value="POST" />
+              <option name="name" value="POST" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJuYW1lIjoiUm9kb2xmbyIsImFnZSI6IjMxIiwiZW1haWwiOiJyb2RvbGZvQHJvdGhtYW5zLmNvbSJ9" />
+              <option name="bodyString" value="{&#10;  &quot;name&quot;: &quot;Rodolfo&quot;,&#10;  &quot;age&quot;: &quot;31&quot;,&#10;  &quot;email&quot;: &quot;rodolfo@rothmans.com&quot;&#10;}" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;3c-2pi2Mw1YJgDNIH3K6LgShJ2nezI&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 18:46:38 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="0aec6164-687d-4289-be08-ffda94a16ea7" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;31&quot;,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;}" />
+              <option name="size" value="60" />
+              <option name="time" value="708" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726944596825" />
+          <option name="id" value="020f29e6-e644-419a-b0c3-a4e1b8035a13" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
+              <option name="method" value="GET" />
+              <option name="name" value="GET" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2NmVmMTQ4ZWZiZmYyNWM4NWEyYWQ2NTciLCJlbWFpbCI6InJvZG9sZm9Acm90aG1hbnMuY29tIiwibmFtZSI6IlJvZG9sZm8iLCJhZ2UiOiIzMSJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;66ef148efbff25c85a2ad657&quot;,&#10;    &quot;email&quot;: &quot;rodolfo@rothmans.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="94" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;5e-PK7apJHFjhikhKSak+2KLayBGVo&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 18:49:56 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="020f29e6-e644-419a-b0c3-a4e1b8035a13" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;66ef148efbff25c85a2ad657&quot;,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;31&quot;}]" />
+              <option name="size" value="94" />
+              <option name="time" value="556" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726945290844" />
+          <option name="id" value="350f3618-5fe0-46af-8c41-06e180bbaa05" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
+              <option name="method" value="GET" />
+              <option name="name" value="GET" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2NmVmMTQ4ZWZiZmYyNWM4NWEyYWQ2NTciLCJlbWFpbCI6InJvZG9sZm9Acm90aG1hbnMuY29tIiwibmFtZSI6IlJvZG9sZm8iLCJhZ2UiOiIzMSJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;66ef148efbff25c85a2ad657&quot;,&#10;    &quot;email&quot;: &quot;rodolfo@rothmans.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="94" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;5e-PK7apJHFjhikhKSak+2KLayBGVo&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 19:01:30 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="350f3618-5fe0-46af-8c41-06e180bbaa05" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;66ef148efbff25c85a2ad657&quot;,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;31&quot;}]" />
+              <option name="size" value="94" />
+              <option name="time" value="58" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726945292523" />
+          <option name="id" value="51c6629c-d402-400e-8d65-88c53c7ee0ae" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
+              <option name="method" value="GET" />
+              <option name="name" value="GET" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2NmVmMTQ4ZWZiZmYyNWM4NWEyYWQ2NTciLCJlbWFpbCI6InJvZG9sZm9Acm90aG1hbnMuY29tIiwibmFtZSI6IlJvZG9sZm8iLCJhZ2UiOiIzMSJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;66ef148efbff25c85a2ad657&quot;,&#10;    &quot;email&quot;: &quot;rodolfo@rothmans.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="94" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;5e-PK7apJHFjhikhKSak+2KLayBGVo&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 19:01:32 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="51c6629c-d402-400e-8d65-88c53c7ee0ae" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;66ef148efbff25c85a2ad657&quot;,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;31&quot;}]" />
+              <option name="size" value="94" />
+              <option name="time" value="55" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726945293003" />
+          <option name="id" value="574d15e1-de41-49e1-943e-e11e1f69928b" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
+              <option name="method" value="GET" />
+              <option name="name" value="GET" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2NmVmMTQ4ZWZiZmYyNWM4NWEyYWQ2NTciLCJlbWFpbCI6InJvZG9sZm9Acm90aG1hbnMuY29tIiwibmFtZSI6IlJvZG9sZm8iLCJhZ2UiOiIzMSJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;66ef148efbff25c85a2ad657&quot;,&#10;    &quot;email&quot;: &quot;rodolfo@rothmans.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="94" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;5e-PK7apJHFjhikhKSak+2KLayBGVo&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 19:01:33 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="574d15e1-de41-49e1-943e-e11e1f69928b" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;66ef148efbff25c85a2ad657&quot;,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;31&quot;}]" />
+              <option name="size" value="94" />
+              <option name="time" value="99" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726945293181" />
+          <option name="id" value="5ca49074-50de-4ab2-ad64-fa6cd5f9aa91" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
+              <option name="method" value="GET" />
+              <option name="name" value="GET" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2NmVmMTQ4ZWZiZmYyNWM4NWEyYWQ2NTciLCJlbWFpbCI6InJvZG9sZm9Acm90aG1hbnMuY29tIiwibmFtZSI6IlJvZG9sZm8iLCJhZ2UiOiIzMSJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;66ef148efbff25c85a2ad657&quot;,&#10;    &quot;email&quot;: &quot;rodolfo@rothmans.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="94" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;5e-PK7apJHFjhikhKSak+2KLayBGVo&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 19:01:33 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="5ca49074-50de-4ab2-ad64-fa6cd5f9aa91" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;66ef148efbff25c85a2ad657&quot;,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;31&quot;}]" />
+              <option name="size" value="94" />
+              <option name="time" value="56" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726945303909" />
+          <option name="id" value="9bbde772-8b7e-4ff6-8e92-afb2c9d2f9e0" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="[&#10;  {&#10;    &quot;id&quot;: &quot;66ef148efbff25c85a2ad657&quot;,&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  }&#10;]" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="1577f347-023f-407a-a120-119ba3997967" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:3000/usuarios/66ef148efbff25c85a2ad657" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2NmVmMTQ4ZWZiZmYyNWM4NWEyYWQ2NTciLCJlbWFpbCI6InJvZG9sZm9AZW1haWwuY29tIiwibmFtZSI6IlJvZG9sZm8iLCJhZ2UiOiIzMSJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;66ef148efbff25c85a2ad657&quot;,&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  }&#10;]" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="91" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;5b-8jRFks3E7+H5eIz+974TaBELeyw&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 19:01:43 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="9bbde772-8b7e-4ff6-8e92-afb2c9d2f9e0" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;66ef148efbff25c85a2ad657&quot;,&quot;email&quot;:&quot;rodolfo@email.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;31&quot;}]" />
+              <option name="size" value="91" />
+              <option name="time" value="168" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726945304110" />
+          <option name="id" value="10975271-a44c-47da-aa44-9741fb4c47b0" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="[&#10;  {&#10;    &quot;id&quot;: &quot;66ef148efbff25c85a2ad657&quot;,&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  }&#10;]" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="1577f347-023f-407a-a120-119ba3997967" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:3000/usuarios/66ef148efbff25c85a2ad657" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2NmVmMTQ4ZWZiZmYyNWM4NWEyYWQ2NTciLCJlbWFpbCI6InJvZG9sZm9AZW1haWwuY29tIiwibmFtZSI6IlJvZG9sZm8iLCJhZ2UiOiIzMSJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;66ef148efbff25c85a2ad657&quot;,&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  }&#10;]" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="91" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;5b-8jRFks3E7+H5eIz+974TaBELeyw&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 19:01:44 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="10975271-a44c-47da-aa44-9741fb4c47b0" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;66ef148efbff25c85a2ad657&quot;,&quot;email&quot;:&quot;rodolfo@email.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;31&quot;}]" />
+              <option name="size" value="91" />
+              <option name="time" value="165" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726945304419" />
+          <option name="id" value="c9ab5f59-b380-4672-81b5-15dd79fe4062" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="[&#10;  {&#10;    &quot;id&quot;: &quot;66ef148efbff25c85a2ad657&quot;,&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  }&#10;]" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="1577f347-023f-407a-a120-119ba3997967" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:3000/usuarios/66ef148efbff25c85a2ad657" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2NmVmMTQ4ZWZiZmYyNWM4NWEyYWQ2NTciLCJlbWFpbCI6InJvZG9sZm9AZW1haWwuY29tIiwibmFtZSI6IlJvZG9sZm8iLCJhZ2UiOiIzMSJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;66ef148efbff25c85a2ad657&quot;,&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  }&#10;]" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="91" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;5b-8jRFks3E7+H5eIz+974TaBELeyw&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 19:01:44 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="c9ab5f59-b380-4672-81b5-15dd79fe4062" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;66ef148efbff25c85a2ad657&quot;,&quot;email&quot;:&quot;rodolfo@email.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;31&quot;}]" />
+              <option name="size" value="91" />
+              <option name="time" value="174" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726945304508" />
+          <option name="id" value="7d0bbc9e-2cd5-491f-9a93-be12e8d5e0bd" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="[&#10;  {&#10;    &quot;id&quot;: &quot;66ef148efbff25c85a2ad657&quot;,&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  }&#10;]" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="1577f347-023f-407a-a120-119ba3997967" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:3000/usuarios/66ef148efbff25c85a2ad657" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2NmVmMTQ4ZWZiZmYyNWM4NWEyYWQ2NTciLCJlbWFpbCI6InJvZG9sZm9AZW1haWwuY29tIiwibmFtZSI6IlJvZG9sZm8iLCJhZ2UiOiIzMSJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;66ef148efbff25c85a2ad657&quot;,&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  }&#10;]" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="91" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;5b-8jRFks3E7+H5eIz+974TaBELeyw&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 19:01:44 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="7d0bbc9e-2cd5-491f-9a93-be12e8d5e0bd" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;66ef148efbff25c85a2ad657&quot;,&quot;email&quot;:&quot;rodolfo@email.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;31&quot;}]" />
+              <option name="size" value="91" />
+              <option name="time" value="438" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726945344332" />
+          <option name="id" value="317549af-f70e-4d6f-ae60-7ed8a48f8c20" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="[&#10;  {&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  }&#10;]" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="1577f347-023f-407a-a120-119ba3997967" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:3000/usuarios/66ef148efbff25c85a2ad657" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siZW1haWwiOiJyb2RvbGZvQGVtYWlsLmNvbSIsIm5hbWUiOiJSb2RvbGZvIiwiYWdlIjoiMzEifV0=" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  }&#10;]" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="59" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;3b-yaR4FGWtZ+Yr2XFc/Yz92QYP6x0&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 19:02:24 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="317549af-f70e-4d6f-ae60-7ed8a48f8c20" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;email&quot;:&quot;rodolfo@email.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;31&quot;}]" />
+              <option name="size" value="59" />
+              <option name="time" value="170" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726945471574" />
+          <option name="id" value="798cbfde-60a5-4ab6-a7c2-66e306c4d157" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="[&#10;  {&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;20&quot;&#10;  }&#10;]" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="1577f347-023f-407a-a120-119ba3997967" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:3000/usuarios/66ef148efbff25c85a2ad657" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siZW1haWwiOiJyb2RvbGZvQGVtYWlsLmNvbSIsIm5hbWUiOiJSb2RvbGZvIiwiYWdlIjoiMjAifV0=" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;20&quot;&#10;  }&#10;]" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="59" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;3b-BJJErBvL/TT4UKxwJnW39s+6yiw&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 19:04:31 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="798cbfde-60a5-4ab6-a7c2-66e306c4d157" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;email&quot;:&quot;rodolfo@email.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;20&quot;}]" />
+              <option name="size" value="59" />
+              <option name="time" value="702" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726945508973" />
+          <option name="id" value="927432c3-9c39-4485-98f3-2b26c0ef908e" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
+              <option name="method" value="GET" />
+              <option name="name" value="GET" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2NmVmMTQ4ZWZiZmYyNWM4NWEyYWQ2NTciLCJlbWFpbCI6InJvZG9sZm9Acm90aG1hbnMuY29tIiwibmFtZSI6IlJvZG9sZm8iLCJhZ2UiOiIzMSJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;66ef148efbff25c85a2ad657&quot;,&#10;    &quot;email&quot;: &quot;rodolfo@rothmans.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="94" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;5e-PK7apJHFjhikhKSak+2KLayBGVo&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 19:05:08 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="927432c3-9c39-4485-98f3-2b26c0ef908e" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;66ef148efbff25c85a2ad657&quot;,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;31&quot;}]" />
+              <option name="size" value="94" />
+              <option name="time" value="59" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726946060227" />
+          <option name="id" value="f2cb89ea-0034-41b3-bd74-3537d42e44f0" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;Carlos&quot;,&#10;  &quot;age&quot; : &quot;21&quot;,&#10;  &quot;email&quot; : &quot;carlos@rothmans.com&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
+              <option name="method" value="POST" />
+              <option name="name" value="POST" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJuYW1lIjoiQ2FybG9zIiwiYWdlIjoiMjEiLCJlbWFpbCI6ImNhcmxvc0Byb3RobWFucy5jb20ifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;name&quot;: &quot;Carlos&quot;,&#10;  &quot;age&quot;: &quot;21&quot;,&#10;  &quot;email&quot;: &quot;carlos@rothmans.com&quot;&#10;}" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="58" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;3a-S8gZzyzE6MAFINHIGslxD97ImAE&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 19:14:20 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f2cb89ea-0034-41b3-bd74-3537d42e44f0" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;name&quot;:&quot;Carlos&quot;,&quot;age&quot;:&quot;21&quot;,&quot;email&quot;:&quot;carlos@rothmans.com&quot;}" />
+              <option name="size" value="58" />
+              <option name="time" value="666" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726946066746" />
+          <option name="id" value="f1217222-78f8-4767-b319-8c5b1b798eb3" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
+              <option name="method" value="GET" />
+              <option name="name" value="GET" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2NmVmMTQ4ZWZiZmYyNWM4NWEyYWQ2NTciLCJlbWFpbCI6InJvZG9sZm9Acm90aG1hbnMuY29tIiwibmFtZSI6IlJvZG9sZm8iLCJhZ2UiOiIzMSJ9LHsiaWQiOiI2NmVmMWIwYzAzNjU3OGYyOGJlNTkxODkiLCJlbWFpbCI6ImNhcmxvc0Byb3RobWFucy5jb20iLCJuYW1lIjoiQ2FybG9zIiwiYWdlIjoiMjEifV0=" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;66ef148efbff25c85a2ad657&quot;,&#10;    &quot;email&quot;: &quot;rodolfo@rothmans.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  },&#10;  {&#10;    &quot;id&quot;: &quot;66ef1b0c036578f28be59189&quot;,&#10;    &quot;email&quot;: &quot;carlos@rothmans.com&quot;,&#10;    &quot;name&quot;: &quot;Carlos&quot;,&#10;    &quot;age&quot;: &quot;21&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="185" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;b9-9KYc8jLGSAWb/UBI9cZiRQSvFBM&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 19:14:26 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f1217222-78f8-4767-b319-8c5b1b798eb3" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;66ef148efbff25c85a2ad657&quot;,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;31&quot;},{&quot;id&quot;:&quot;66ef1b0c036578f28be59189&quot;,&quot;email&quot;:&quot;carlos@rothmans.com&quot;,&quot;name&quot;:&quot;Carlos&quot;,&quot;age&quot;:&quot;21&quot;}]" />
+              <option name="size" value="185" />
+              <option name="time" value="60" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726946084503" />
+          <option name="id" value="e2a8b243-9322-444b-8e1d-2101d095886c" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="[&#10;  {&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;20&quot;&#10;  }&#10;]" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="1577f347-023f-407a-a120-119ba3997967" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:3000/usuarios/66ef148efbff25c85a2ad657" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siZW1haWwiOiJyb2RvbGZvQGVtYWlsLmNvbSIsIm5hbWUiOiJSb2RvbGZvIiwiYWdlIjoiMjAifV0=" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;20&quot;&#10;  }&#10;]" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="59" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;3b-BJJErBvL/TT4UKxwJnW39s+6yiw&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 19:14:44 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="e2a8b243-9322-444b-8e1d-2101d095886c" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;email&quot;:&quot;rodolfo@email.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;20&quot;}]" />
+              <option name="size" value="59" />
+              <option name="time" value="170" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726946244891" />
+          <option name="id" value="f45af2f7-a453-4e96-afd6-f82a207644e1" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="[&#10;  {&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;20&quot;&#10;  }&#10;]" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="1577f347-023f-407a-a120-119ba3997967" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:3000/usuarios/66ef148efbff25c85a2ad657" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siZW1haWwiOiJyb2RvbGZvQGVtYWlsLmNvbSIsIm5hbWUiOiJSb2RvbGZvIiwiYWdlIjoiMjAifV0=" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;20&quot;&#10;  }&#10;]" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="59" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;3b-BJJErBvL/TT4UKxwJnW39s+6yiw&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 19:17:24 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f45af2f7-a453-4e96-afd6-f82a207644e1" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;email&quot;:&quot;rodolfo@email.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;20&quot;}]" />
+              <option name="size" value="59" />
+              <option name="time" value="701" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726948477373" />
+          <option name="id" value="f6fab0c7-2cc0-41b7-909b-c9fd69aa5cb6" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="b988e2e0-6ad7-4796-ba52-ffee0a702085" />
+              <option name="method" value="GET" />
+              <option name="name" value="GET" />
+              <option name="url" value="http://localhost:3000/usuarios" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2NmVmMTQ4ZWZiZmYyNWM4NWEyYWQ2NTciLCJlbWFpbCI6InJvZG9sZm9Acm90aG1hbnMuY29tIiwibmFtZSI6IlJvZG9sZm8iLCJhZ2UiOiIzMSJ9LHsiaWQiOiI2NmVmMWIwYzAzNjU3OGYyOGJlNTkxODkiLCJlbWFpbCI6ImNhcmxvc0Byb3RobWFucy5jb20iLCJuYW1lIjoiQ2FybG9zIiwiYWdlIjoiMjEifV0=" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;66ef148efbff25c85a2ad657&quot;,&#10;    &quot;email&quot;: &quot;rodolfo@rothmans.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;31&quot;&#10;  },&#10;  {&#10;    &quot;id&quot;: &quot;66ef1b0c036578f28be59189&quot;,&#10;    &quot;email&quot;: &quot;carlos@rothmans.com&quot;,&#10;    &quot;name&quot;: &quot;Carlos&quot;,&#10;    &quot;age&quot;: &quot;21&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="185" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;b9-9KYc8jLGSAWb/UBI9cZiRQSvFBM&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 19:54:37 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f6fab0c7-2cc0-41b7-909b-c9fd69aa5cb6" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;66ef148efbff25c85a2ad657&quot;,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;31&quot;},{&quot;id&quot;:&quot;66ef1b0c036578f28be59189&quot;,&quot;email&quot;:&quot;carlos@rothmans.com&quot;,&quot;name&quot;:&quot;Carlos&quot;,&quot;age&quot;:&quot;21&quot;}]" />
+              <option name="size" value="185" />
+              <option name="time" value="698" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726948687879" />
+          <option name="id" value="1daf9aff-0053-41db-960f-4c034d100c95" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="[&#10;  {&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;20&quot;&#10;  }&#10;]" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="1577f347-023f-407a-a120-119ba3997967" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:3000/usuarios/66ef148efbff25c85a2ad657" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siZW1haWwiOiJyb2RvbGZvQGVtYWlsLmNvbSIsIm5hbWUiOiJSb2RvbGZvIiwiYWdlIjoiMjAifV0=" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;20&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="59" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;3b-BJJErBvL/TT4UKxwJnW39s+6yiw&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 19:58:07 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1daf9aff-0053-41db-960f-4c034d100c95" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;email&quot;:&quot;rodolfo@email.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;20&quot;}]" />
+              <option name="size" value="59" />
+              <option name="time" value="702" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1726948843203" />
+          <option name="id" value="10113119-70f3-4711-a525-393b1866d0da" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="[&#10;  {&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;20&quot;&#10;  }&#10;]" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="1577f347-023f-407a-a120-119ba3997967" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:3000/usuarios/66ef148efbff25c85a2ad657" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJpZCI6IjY2ZWYxNDhlZmJmZjI1Yzg1YTJhZDY1NyIsImVtYWlsIjoicm9kb2xmb0Byb3RobWFucy5jb20iLCJuYW1lIjoiUm9kb2xmbyIsImFnZSI6IjMxIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot;: &quot;66ef148efbff25c85a2ad657&quot;,&#10;  &quot;email&quot;: &quot;rodolfo@rothmans.com&quot;,&#10;  &quot;name&quot;: &quot;Rodolfo&quot;,&#10;  &quot;age&quot;: &quot;31&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-Powered-By" />
+                    <option name="value" value="Express" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="92" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="ETag" />
+                    <option name="value" value="W/&quot;5c-n3w3qJme20pKAaHtm7bo2PTClIU&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 21 Sep 2024 20:00:43 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=5" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="10113119-70f3-4711-a525-393b1866d0da" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;id&quot;:&quot;66ef148efbff25c85a2ad657&quot;,&quot;email&quot;:&quot;rodolfo@rothmans.com&quot;,&quot;name&quot;:&quot;Rodolfo&quot;,&quot;age&quot;:&quot;31&quot;}" />
+              <option name="size" value="92" />
+              <option name="time" value="678" />
             </responseState>
           </option>
           <option name="workspaceId" value="drafts" />

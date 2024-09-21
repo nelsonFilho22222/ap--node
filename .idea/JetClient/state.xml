@@ -19,13 +19,31 @@
             <requestState>
               <option name="body">
                 <bodyState>
-                  <option name="raw" value="{&#10;  &quot;nome&quot; : &quot;Rodolfo&quot;,&#10;  &quot;idade&quot; : 31,&#10;  &quot;email&quot; : &quot;rodolfo@rothmans.com&quot;&#10;}" />
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;Carlos&quot;,&#10;  &quot;age&quot; : &quot;21&quot;,&#10;  &quot;email&quot; : &quot;carlos@rothmans.com&quot;&#10;}" />
                   <option name="type" value="JSON" />
                 </bodyState>
               </option>
               <option name="id" value="801e6a6a-c99d-4e69-88ae-982f68da76df" />
               <option name="method" value="POST" />
               <option name="name" value="POST" />
+              <option name="url" value="WEhttp://localhost:3000/usuarios" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="[&#10;  {&#10;    &quot;email&quot;: &quot;rodolfo@email.com&quot;,&#10;    &quot;name&quot;: &quot;Rodolfo&quot;,&#10;    &quot;age&quot;: &quot;20&quot;&#10;  }&#10;]" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="1577f347-023f-407a-a120-119ba3997967" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:3000/usuarios/66ef148efbff25c85a2ad657" />
+            </requestState>
+            <requestState>
+              <option name="id" value="272b839e-cbba-4d9b-8289-38d33019dfdd" />
+              <option name="method" value="DELETE" />
+              <option name="name" value="Draft (1)" />
               <option name="url" value="http://localhost:3000/usuarios" />
             </requestState>
           </list>
